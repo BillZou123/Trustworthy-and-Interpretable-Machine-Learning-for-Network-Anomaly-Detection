@@ -1,1 +1,3 @@
 # Trustworthy-and-Interpretable-Machine-Learning-for-Network-Anomaly-Detection
+
+With complex and evolving attack patterns, statistical and rule-based methods are facing the limitation of not being able to capture and detect new, unseen attacks. Therefore, machine learning techniques for network anomaly detection are brought to the stage since they are able to generalize better to new and unseen network anomalies. This project focuses on addressing this need by developing a novel approach that combines the principles of trustworthiness and interpretability in machine learning models for network anomaly detection.
